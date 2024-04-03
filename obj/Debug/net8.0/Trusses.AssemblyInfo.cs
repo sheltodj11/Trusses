@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trusses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c055d7126f9047145649245151fe4f60f1b3c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trusses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trusses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
